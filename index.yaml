@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javawebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-09T12:26:24.470423637Z"
+    description: A Helm chart for Kubernetes
+    digest: 5b7ebffebd2334ec14961f1e47b20ecb0b2495e4b3fcba0c94e64a471af41496
+    name: javawebapp
+    type: application
+    urls:
+    - https://prema1990.github.io/helmchart_prema1990/javawebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-09T12:26:24.469622786Z"
